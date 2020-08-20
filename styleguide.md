@@ -177,20 +177,20 @@ So: Contribute to this repo!!!
 
 
 ## Other Styleguides
-https://styleguide.mailchimp.com/
-https://www.audi.com/ci/en/renewed-brand.html
-https://guidelines.barbican.org.uk/brand/
-https://www.ibm.com/design/language/
-https://brand.uber.com/guide
-https://design.firefox.com/
-Graphic silhouettes (Page 33): http://portacreativeserver.com/vault/manualescorporativos/BRANDBOOK%20MACMILLAN.pdf
+- https://styleguide.mailchimp.com/
+- https://www.audi.com/ci/en/renewed-brand.html
+- https://guidelines.barbican.org.uk/brand/
+- https://www.ibm.com/design/language/
+- https://brand.uber.com/guide
+- https://design.firefox.com/
+- Graphic silhouettes (Page 33): http://portacreativeserver.com/vault/manualescorporativos/BRANDBOOK%20MACMILLAN.pdf
 
 
 
 ## Other Resources:
-https://trycolors.com/
-https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing/
-https://www.viget.com/articles/tints-tones-shades/
-https://toolness.github.io/accessible-color-matrix/
-https://palx.jxnblk.com/
-https://www.creativebloq.com/design/create-style-guides-1012963
+- https://trycolors.com/
+- https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing/
+- https://www.viget.com/articles/tints-tones-shades/
+- https://toolness.github.io/accessible-color-matrix/
+- https://palx.jxnblk.com/
+- https://www.creativebloq.com/design/create-style-guides-1012963
