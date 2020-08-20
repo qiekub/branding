@@ -44,13 +44,23 @@ So: Contribute to this repo!!!
 		- Use the Headline-Typeface for subbrands
 
 ### Colors
-- Colors (TODO)
-	-RGB/CMYK/HEX/PMS
-- Backgrounds
-	- never exact black or exact white
-- Main Colors
-- Secondary Colors
-- Greys
+- These will change in the near future. (TODO)
+- Try not to use exact black or exact white. (Print can be the exception.)
+- Primary: purple
+	- normal: #6A1B9A
+	- light: #D797FF
+	- light-bg: #E6CBFF
+- Secondary: green
+	- normal: #00695C
+	- light: #98FFF1
+	- light-bg: #CBE2DE
+- Black:
+	- Natural: #212121
+	- Hard: #000 / black
+- White:
+	- Natural: #FAFAFA
+	- Hard: #FFF / white
+- Greys / Backgrounds:
 	- warm earthy or
 	- tinted with the main surounding color
 
