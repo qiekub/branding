@@ -152,6 +152,8 @@ So: Contribute to this repo!!!
 	- Standardized spellings
 	- Words to use carefully
 	- Words to avoid
+- Colors
+	- Provide colors in RGB, CMYK, HEX and PMS.
 
 
 
