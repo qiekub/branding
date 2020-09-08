@@ -14,7 +14,7 @@ So: Contribute to this repo!!!
 ## Basics
 
 ### Motto / Slogan / Tagline
-- Dream: "Design, Build and life the future we want to life in."
+- Dream: "Design, Build and life the future we want to live in."
 - Diverse: "Help everyone flourish."
 - Concrete: "Consolidate all resources needed to end discrimination."
 
