@@ -127,6 +127,7 @@ So: Contribute to this repo!!!
 
 ### Code
 - For Javascript, look at the AirBnb Javascript Styleguide: https://github.com/airbnb/javascript
+- Here is a helpful document about naming things in code: https://github.com/kettanaito/naming-cheatsheet
 
 
 
